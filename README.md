@@ -1,4 +1,4 @@
-mobile_domian
+mobile_domain
 =============
 
 Mobile domain support with XE addon
