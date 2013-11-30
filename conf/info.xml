@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">모바일 주소 애드온</title>
+    <description xml:lang="ko">
+       모바일 디바이스로 일반 주소로 접속했을때 모바일 주소로 이동
+    </description>
+    <version>1.0</version>
+    <date>2013-11-30</date>
+
+    <author email_address="canto87@naver.com" link="http://canto.btool.kr">
+        <name xml:lang="ko">Canto</name>
+    </author>
+	<extra_vars>
+	<var name="mobiledomain">
+		<title xml:lang="ko">모바일 도메인</title>
+		<description xml:lang="ko"> 모바일 도메인 입력 ex) m.xpressengine.com ( http:// 제외 )
+		</description>
+	</var>
+	</extra_vars>
+</addon>
